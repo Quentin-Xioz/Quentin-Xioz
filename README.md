@@ -1,5 +1,9 @@
 # Moreau Quentin
 
+### A propos de moi
+
+Bonjour,
+
 ### Stack Technique
 
 ### 🎨 Front-End
@@ -10,7 +14,6 @@
 ### ⚙️ Back-End & Langages
 ![Python](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png&h=20) **Python** (`Flask`, `Django`) &nbsp;
 ![Java](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png&h=20) **Java** &nbsp;
-![NestJS](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png&h=20) **NestJS** &nbsp;
 ![C](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png&h=20) **C**
 
 ### 🧪 Tests & Qualité
