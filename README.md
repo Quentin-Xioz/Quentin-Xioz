@@ -22,9 +22,9 @@ Passionné par le fonctionnement interne des systèmes et la conception d'archit
 ![Oracle](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png&h=20) **Oracle**  
 
 **Outils**  
-**VS Code** &nbsp;  
-**Git** &nbsp;  
-**Markdown** &nbsp;  
+VS Code &nbsp;  
+Git &nbsp;  
+Markdown &nbsp;  
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/quentin-moreau-689b1b358/)  
