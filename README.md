@@ -10,23 +10,22 @@ Passionné par le fonctionnement interne des systèmes et la conception d'archit
 ### Stack Technique
 
 **Langages & Frameworks**  
-![C](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png&h=20) **C** &nbsp;
-![Bash](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png&h=20) **Bash** &nbsp;
-![Python](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png&h=20) **Python** (`Flask`, `Django`, `Pytest`) &nbsp;
-![Java](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png&h=20) **Java** (`JUnit`, `JavaFX`, `Hamcrest`) &nbsp;
-![JS](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png&h=20) **JavaScript** (`Vue.js`, `Next.js`)
+![C](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png&h=20) **C** &nbsp;  
+![Bash](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png&h=20) **Bash** &nbsp;  
+![Python](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png&h=20) **Python** (`Flask`, `Django`, `Pytest`) &nbsp;  
+![Java](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png&h=20) **Java** (`JUnit`, `JavaFX`, `Hamcrest`) &nbsp;  
+![JS](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png&h=20) **JavaScript** (`Vue.js`, `Next.js`)  
 
 **Bases de données**  
-![MySQL](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png&h=20) **MySQL** &nbsp;
-![MariaDB](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png&h=20) **MariaDB** &nbsp;
-![Oracle](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png&h=20) **Oracle**
+![MySQL](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png&h=20) **MySQL** &nbsp;  
+![MariaDB](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png&h=20) **MariaDB** &nbsp;  
+![Oracle](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png&h=20) **Oracle**  
 
 **Outils**  
-![VSCode](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscode.png&h=20) **VS Code** &nbsp;
-![Git](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png&h=20) **Git** &nbsp;
-![GitHub](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png&h=20) **GitHub** &nbsp;
-![Markdown](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/markdown.png&h=20) **Markdown** &nbsp;
-![Trello](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trello.png&h=20) **Trello**
+![VSCode](https://code.visualstudio.com/assets/branding/code-stable.png.png&h=20) **VS Code** &nbsp;  
+![Git](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png&h=20) **Git** &nbsp;  
+![GitHub](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png&h=20) **GitHub** &nbsp;  
+![Markdown](https://img.icons8.com/win10/1200/markdown.jpg.png&h=20) **Markdown** &nbsp;  
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/quentin-moreau-689b1b358/)  
