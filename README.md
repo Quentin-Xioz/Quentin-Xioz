@@ -22,10 +22,10 @@ Passionné par le fonctionnement interne des systèmes et la conception d'archit
 ![Oracle](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png&h=20) **Oracle**  
 
 **Outils**  
-![VSCode](https://code.visualstudio.com/assets/branding/code-stable.png.png&h=20) **VS Code** &nbsp;  
+![VSCode](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png.png&h=20) **VS Code** &nbsp;  
 ![Git](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png&h=20) **Git** &nbsp;  
 ![GitHub](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png&h=20) **GitHub** &nbsp;  
-![Markdown](https://img.icons8.com/win10/1200/markdown.jpg.png&h=20) **Markdown** &nbsp;  
+![Markdown](https://img.icons8.com/color/48/markdown.png.png&h=20) **Markdown** &nbsp;  
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/quentin-moreau-689b1b358/)  
