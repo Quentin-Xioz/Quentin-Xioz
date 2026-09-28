@@ -23,4 +23,5 @@
 ![Pytest](https://images.weserv.nl/?url=raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png&h=20) **Pytest**  
 
 ### Contact
-quentinmoreau28@gmail.com
+[LinkedIn]https://www.linkedin.com/in/quentin-moreau-689b1b358/
+[GMAIL]quentinmoreau28@gmail.com
